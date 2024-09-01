@@ -19,3 +19,4 @@ document.getElementById('apiButton').addEventListener('click', function() {
             document.getElementById('apiResponse').innerText = 'Error: ' + error;
         });
 });
+
